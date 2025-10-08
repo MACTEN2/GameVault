@@ -45,6 +45,7 @@ const iconMapping = {
     Star: Star,
     Target: Target,
     Users: Users,
+    Map: Map,
   };
 
   const categoryIcons = {
@@ -52,7 +53,7 @@ const iconMapping = {
     weapons: Sword,
     groups: Users, 
     vehicles: Car,
-    locations: Crown
+    locations: Home
   };
 
   const resetVisibility = () => {
