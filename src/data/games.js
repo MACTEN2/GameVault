@@ -84,818 +84,818 @@ export const gameData = {
 
      'gta': {
         "characters": [
-            {
+           {
                 "name": "Claude",
                 "role": "Mute Mobster / Ascendant Gangster",
                 "appeared_in": ["Grand Theft Auto III (2001)", "Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Silent", "Ruthless", "Driven", "Effective"],
-                "description": "The silent protagonist of *GTA III*, betrayed by Catalina and left for dead. His journey is a single-minded quest for power and vengeance across Liberty City. He is also Catalina's boyfriend (and subsequent victim) in a previous timeline, *GTA: San Andreas* (1992).",
-                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6A5DCpuIjVBAg9ULR7EAtIAObVtkMY0Yew&s",
+                "traits": ["Silent", "Ruthless", "Driven", "Effective", "Amoral", "Vengeful", "High-Functioning Sociopath", "Unflinching", "Apolitical (A-Loyal)"],
+                "description": "Claude's past is largely unknown, but prior to *GTA III*, he was a street racer in San Fierro in 1992, where he lost his garage to Carl Johnson and began a relationship with **Catalina**. They left San Andreas for a crime spree in Liberty City, where he was betrayed and shot by Catalina during a bank heist. He escapes police custody and embarks on a single-minded, silent journey through the city's criminal underworld, working for the Leone Family, the Yakuza, and corrupt businessmen to reach Catalina and exact his **vengeance**.",
+                "image": "https://www.giantbomb.com/a/uploads/original/105/1056167/3469896-claude.jpg"
             },
             {
                 "name": "Tommy Vercetti",
                 "role": "Ex-Mafia Hitman / Budding Crime Lord",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)"],
-                "traits": ["Ambitious", "Charismatic", "Violent", "Opportunistic"],
-                "description": "Sent to Vice City in 1986 by the Forelli family, he survives a drug deal ambush and decides to take over the city for himself, systematically destroying all rivals to become the undisputed crime kingpin.",
-                "image": "",
+                "traits": ["Ambitious", "Charismatic", "Violent", "Opportunistic", "Methodical", "Power-Hungry", "Temperamental", "Slick", "Inpatient", "Visionary"],
+                "description": "Born in Liberty City, Tommy worked for the Forelli Crime Family and served **15 years in prison** for a mass murder in Harwood (earning the nickname 'The Harwood Butcher'). Upon his release in 1986, his boss, Sonny Forelli, sent him to **Vice City** to oversee a major drug deal. When the deal is ambushed, Tommy sees an opportunity to break free from the Forellis, track down the culprits (Ricardo Diaz), seize his empire, and ultimately become the **undisputed kingpin** of Vice City.",
+                "image": "https://www.giantbomb.com/a/uploads/square_small/0/8960/2447712-0075136441-Stree.jpg"
             },
             {
                 "name": "Carl “CJ” Johnson",
                 "role": "Reformed Gangster / Homecomer",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Loyal", "Street Smart", "Protective of Family", "Adaptive"],
-                "description": "Returns to Los Santos in 1992 for his mother's funeral and is forced to fight for his gang, the Grove Street Families, while being blackmailed by the corrupt C.R.A.S.H. unit, led by Officer Tenpenny.",
-                "image": "",
+                "traits": ["Loyal", "Street Smart", "Protective of Family", "Adaptive", "Compassionate", "Easily Likable", "Driven by Growth", "Reluctant Criminal", "Humane", "Redeemable"],
+                "description": "After witnessing the death of his younger brother, Brian, in 1987, Carl fled the gang life of Grove Street and moved to **Liberty City** for five years, working as a car thief for Joey Leone. He returns to Los Santos in 1992 after his **mother's murder**. Forced back into the gang, he discovers that his trusted friends, Big Smoke and Ryder, are traitors, and he's blackmailed by the corrupt C.R.A.S.H. unit. CJ's life story is about trying to leave the gang life, only to be forced to become a high-level criminal to save his family and his city.",
+                "image": "https://www.giantbomb.com/a/uploads/scale_medium/46/462814/3222927-6826564307-latest.jpg"
             },
             {
                 "name": "Toni Cipriani",
                 "role": "Leone Family Soldier / Capo",
                 "appeared_in": ["Grand Theft Auto III (2001)", "Grand Theft Auto: Liberty City Stories (2005)"],
-                "traits": ["Loyal", "Eager to Please", "Violent", "Overlooked"],
-                "description": "The protagonist of *LCS* (1998), who returns to Liberty City and strives to prove his loyalty to Salvatore Leone, rising through the ranks to become a powerful Capo. He later appears in *GTA III* as a mission giver.",
-                "image": "",
+                "traits": ["Loyal", "Eager to Please", "Violent", "Overlooked", "Insecure", "Aggressive", "Maternal Issues", "Self-Proving", "Brutal"],
+                "description": "Toni spent a brief time in hiding after **killing a made man** for the Leone family. The story of *LCS* (1998) begins with his return to Liberty City, where he must constantly prove his worth to Don Salvatore Leone while facing relentless criticism from his **domineering mother**. Driven by a desire for power and respect, Toni brutally eliminates all rivals (including the Sindaccos, Forellis, and Triads) and rises to the rank of Capo. He is later seen in *GTA III* (2001), now a powerful mobster giving missions to Claude.",
+                "image": "https://preview.redd.it/reminder-that-not-only-did-toni-cipriani-chop-up-a-guy-and-v0-ssw1tir6ffpb1.jpg?auto=webp&s=e784db87d2d35c3cbaac060832d9f6be26acec81"
             },
             {
                 "name": "Victor “Vic” Vance",
                 "role": "Disgraced Soldier / Reluctant Drug Lord",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)", "Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Honorable (Initially)", "Protective of Family", "Disciplined", "Tragic"],
-                "description": "An honorable U.S. Army Corporal who is forced into crime after being framed and discharged in *VCS* (1984). He builds an empire with his brother Lance, but is tragically killed in the botched drug deal that kicks off *GTA: Vice City* (1986).",
-                "image": "",
+                "traits": ["Honorable (Initially)", "Protective of Family", "Disciplined", "Tragic", "Morally Grounded (initially)", "Serious", "Stoic", "No-Nonsense", "Selfless"],
+                "description": "Victor was an honorable U.S. Army Corporal stationed in Vice City in 1984. He desperately sought to make money for his **ailing brother, Pete**, and his dysfunctional family, which led him to his corrupt superior, Sergeant Martinez. Martinez set Vic up, leading to his **dishonorable discharge**. Forced out of the army and desperate for cash, Vic reluctantly enters the criminal world, building an empire alongside his chaotic brother, Lance. After his love interest, Louise, is killed, Vic seeks revenge, eventually cleaning up his operation and leaving the city. His life ends tragically in the opening of *GTA: Vice City* (1986), where he's killed during a drug deal ambush.",
+                "image": "https://www.giantbomb.com/a/uploads/scale_small/11/112064/1634324-victor_vance.png"
             },
             {
                 "name": "Niko Bellic",
                 "role": "Eastern European War Veteran / Immigrant",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Cynical", "Resourceful", "Skilled Marksman", "Protective"],
-                "description": "An immigrant who comes to Liberty City seeking a better life after fighting in the Balkan Wars, only to find himself dragged into a brutal world of organized crime and forced to confront his past.",
-                "image": "",
+                "traits": ["Cynical", "Resourceful", "Skilled Marksman", "Protective", "Jaded", "Remorseful", "World-Weary", "Sarcastic", "Intensely Loyal (to Roman)", "Traumatized"],
+                "description": "Niko grew up impoverished in Eastern Europe and served as a teenager in the **Yugoslav Wars**, where his military unit was betrayed and massacred—a traumatic event he's trying to escape. After years in the **European criminal underworld**, including stints in smuggling and human trafficking, he comes to **Liberty City** in 2008, lured by his cousin Roman's false promises of wealth and a new life. He quickly finds himself dragged back into a brutal cycle of violence, working for loan sharks and mobsters as he searches for the man who betrayed his unit years ago.",
+                "image": "https://www.giantbomb.com/a/uploads/scale_medium/3/39162/1707823-nikobellic_gtaiv.jpg"
             },
             {
                 "name": "Johnny Klebitz",
                 "role": "Outlaw Biker / Vice President of The Lost MC",
                 "appeared_in": ["Grand Theft Auto IV: The Lost and Damned (2009)", "Grand Theft Auto V (2013)"],
-                "traits": ["Pragmatic", "Loyal (but betrayed)", "Burned-out"],
-                "description": "The protagonist of *The Lost and Damned*. He tries to keep his biker gang, The Lost MC, from self-destructing, but loses control to the unstable Billy Grey. His story ends violently when he confronts Trevor Philips in *GTA V*.",
-                "image": "",
+                "traits": ["Pragmatic", "Loyal (but betrayed)", "Burned-out", "Rational", "Addicted", "Controlling (of chaos)", "Grounded (in TLAD)", "Worn Down"],
+                "description": "As the Vice President of The Lost MC, Johnny took pragmatic control of the gang while its President, **Billy Grey**, was in prison. He sought a more stable life focused on drug deals. When Billy is released, his violent and reckless leadership re-ignites a brutal war with rival gangs and the government. Johnny constantly attempts to bring order back to the club and save his friends. By *GTA V* (2013), a burned-out, **meth-addicted** Johnny has relocated to Los Santos with the remnants of the club, but his diminished state leads to his abrupt and violent death at the hands of Trevor Philips.",
+                "image": "https://www.giantbomb.com/a/uploads/scale_small/3/30036/898247-untitled.jpg"
             },
             {
                 "name": "Luis Fernando Lopez",
                 "role": "Nightclub Bouncer / Bodyguard",
                 "appeared_in": ["Grand Theft Auto IV: The Ballad of Gay Tony (2009)", "Grand Theft Auto IV (2008)"],
-                "traits": ["Cool-headed", "Loyal", "Effective in Combat", "Reluctant Criminal"],
-                "description": "The bodyguard and business partner of nightclub owner 'Gay Tony' Prince. He is constantly tasked with saving Tony and his businesses from debt and rival mobsters, all while balancing his own street crew.",
-                "image": "",
+                "traits": ["Cool-headed", "Loyal", "Effective in Combat", "Reluctant Criminal", "Street-Smart", "Professional", "Unflappable", "Ambitious (for Tony)", "Level-Headed"],
+                "description": "Raised in Northwood, Liberty City, Luis has a complicated history that includes a brief **prison sentence**. He works to legitimize his life as the bodyguard and business partner of nightclub owner **'Gay Tony' Prince**. The story of *TBoGT* revolves around Luis constantly putting out fires caused by Tony's massive debts to mobsters and his erratic lifestyle. Luis must navigate Tony's wealthy but dangerous social circle while keeping his connection to his street friends in the Dominican drug trade, ultimately saving Tony and stabilizing their empire.",
+                "image": "https://www.giantbomb.com/a/uploads/original/3/39162/1707957-luisfernandolopez_gtaiv.jpg"
             },
             {
                 "name": "Michael De Santa (Townley)",
                 "role": "Retired Bank Robber / Protagonist 1 of 3",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Jaded", "Strategic", "Family Man (Troubled)", "Controlling"],
-                "description": "A former career criminal living a miserable life in witness protection in Los Santos. He is pulled back into high-stakes heists after accidentally meeting Franklin and being rediscovered by Trevor.",
-                "image": "",
+                "traits": ["Jaded", "Strategic", "Family Man (Troubled)", "Controlling", "Self-Loathing", "Movie Buff", "Mid-Life Crisis", "Cynical", "Hypocrite", "Veteran"],
+                "description": "Born Michael Townley, he was a successful, high-level bank robber. In 2004, a botched heist in North Yankton resulted in the supposed death of his partner, **Trevor Philips**, and the assumed death of Michael himself. He entered a secret deal with FIB Agent Dave Norton, going into **witness protection** in Los Santos. By 2013, he's rich but miserable, with a dysfunctional family and a severe mid-life crisis. When he accidentally crosses paths with Franklin, he's drawn back into the world of heists, leading to the dramatic rediscovery by Trevor and the confrontation of his deep, complex past.",
+                "image": "https://www.giantbomb.com/a/uploads/scale_medium/5/56742/2478162-2409500254.jpg"
             },
             {
                 "name": "Franklin Clinton",
                 "role": "Street Hustler / Protagonist 2 of 3",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Ambitious", "Disciplined", "Loyal", "Street Smart"],
-                "description": "A young gang member eager to escape the 'hood life'. He finds the mentorship he craves in Michael, using his talent as a wheelman to rise from repo work to major criminal enterprises.",
-                "image": "",
+                "traits": ["Ambitious", "Disciplined", "Loyal", "Street Smart", "Rational", "Underdog", "Mentee", "Level-Headed", "The Voice of Reason", "Driven"],
+                "description": "Raised in South Los Santos, Franklin fell into the street gang life, but by 2013, he's **bored with petty crime** and yearns for a higher-stakes career. He works as a repo man for a shady car dealer, Simeon Yetarian, often alongside his erratic best friend, **Lamar Davis**. A chance encounter with Michael De Santa, whom he attempts to repossess a car from, provides him with the **mentor** and opportunity he's been seeking. His story is one of an aspiring protégé, using his skills as a wheelman to rise from the hood to become a wealthy professional criminal, constantly acting as the **mediator** between the chaos of Michael and Trevor.",
+                "image": "https://www.giantbomb.com/a/uploads/scale_medium/5/56742/2478164-2751857776.jpg"
             },
             {
                 "name": "Trevor Philips",
                 "role": "Psychotic Drug Lord / Protagonist 3 of 3",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Psychotic", "Impulsive", "Brutally Effective", "Surprisingly Loyal"],
-                "description": "Michael's volatile ex-partner who runs a small, chaotic drug and arms business in Blaine County. He is driven by chaos, violence, and a deep, albeit demented, loyalty to his friends.",
-                "image": "",
+                "traits": ["Psychotic", "Impulsive", "Brutally Effective", "Surprisingly Loyal", "Unstable", "Chaotic", "Intelligent (under the madness)", "Vengeful", "Unpredictable", "Air Force Pilot (Former)"],
+                "description": "Trevor grew up in an abusive home, was a former **military pilot**, and spent years working as a bank robber with his best friend, **Michael Townley**. He supposedly died during the North Yankton heist in 2004. By 2013, he runs a small, chaotic drug and arms operation called **Trevor Philips Industries** out of a trailer in Blaine County. His life is consumed by violence and madness until he sees a news report about a robbery that reveals Michael is alive. His entire story is driven by his intense, **demented loyalty** to Michael and his overwhelming desire for revenge against the man he believes is in Michael's grave.",
+                "image": "https://www.giantbomb.com/a/uploads/scale_medium/5/56742/2478163-2551522960.jpg"
             },
             // GTA III Key Characters
             {
                 "name": "Catalina",
                 "role": "Narcissistic Cartel Boss / Main Antagonist",
                 "appeared_in": ["Grand Theft Auto III (2001)", "Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Narcissistic", "Betraying", "Psychotic", "Ambitious"],
+                "traits": ["Narcissistic", "Betraying", "Psychotic", "Ambitious", "Borderline Personality", "Manipulative", "Vicious"],
                 "description": "The central antagonist of *GTA III*, responsible for betraying Claude. Earlier, she was Carl Johnson's unhinged girlfriend in *GTA: San Andreas* (1992) before running off to Liberty City.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Maria Latore",
                 "role": "Wife of Salvatore Leone / Drug Addict",
                 "appeared_in": ["Grand Theft Auto III (2001)", "Grand Theft Auto: Liberty City Stories (2005)"],
-                "traits": ["Needy", "Dramatic", "Addicted", "Rebellious"],
+                "traits": ["Needy", "Dramatic", "Addicted", "Rebellious", "Over-the-top", "Troublemaker"],
                 "description": "The young, dramatic wife of Salvatore Leone who is prone to causing trouble for the Leone family. She becomes infatuated with both Toni Cipriani and Claude.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Salvatore Leone",
                 "role": "Don of the Leone Crime Family",
                 "appeared_in": ["Grand Theft Auto III (2001)", "Grand Theft Auto: Liberty City Stories (2005)"],
-                "traits": ["Paranoid", "Traditional", "Controlling", "Powerful"],
+                "traits": ["Paranoid", "Traditional", "Controlling", "Powerful", "Old-School Mafioso", "Insecure"],
                 "description": "The powerful Don who rules the Leone family. He promotes Toni Cipriani but later becomes paranoid, setting up a hit on Claude that leads to his own execution.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Joey Leone",
                 "role": "Leone Family Capo / Car Mechanic",
                 "appeared_in": ["Grand Theft Auto III (2001)"],
-                "traits": ["Loud-mouthed", "Mechanically Inclined", "Mid-level Mobster"],
+                "traits": ["Loud-mouthed", "Mechanically Inclined", "Mid-level Mobster", "Connected to the Streets"],
                 "description": "A well-connected Capo and mechanic in the Leone family who gives Claude various missions, usually involving cars and disposal of bodies.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Luigi Goterelli",
                 "role": "Owner of the Sex Club 7 / Pimp",
                 "appeared_in": ["Grand Theft Auto III (2001)"],
-                "traits": ["Connected", "Sleazy", "Bossy"],
+                "traits": ["Connected", "Sleazy", "Bossy", "Low-Level Organised Crime"],
                 "description": "Claude's first employer in Liberty City who runs the Sex Club 7 and introduces Claude to the city's criminal underworld.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Asuka Kasen",
                 "role": "Yakuza Leader / Co-antagonist",
                 "appeared_in": ["Grand Theft Auto III (2001)"],
-                "traits": ["Professional", "Intelligent", "Revenge-driven"],
+                "traits": ["Professional", "Intelligent", "Revenge-driven", "Calculated", "Cruel (as torturer)"],
                 "description": "Co-leader of the Yakuza who allies with Claude after he breaks her brother, Kenji, out of jail. She is driven by a desire for vengeance against the Colombian Cartel.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Kenji Kasen",
                 "role": "Yakuza Co-leader / Businessman",
                 "appeared_in": ["Grand Theft Auto III (2001)"],
-                "traits": ["Honorable", "Traditional", "Cautious"],
+                "traits": ["Honorable", "Traditional", "Cautious", "Business-Minded", "Status-Focused"],
                 "description": "Co-leader of the Yakuza based out of his casino. Claude performs several missions for him before assassinating him on the orders of Donald Love.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Donald Love",
                 "role": "Media Mogul / Real Estate Tycoon",
                 "appeared_in": ["Grand Theft Auto III (2001)", "Grand Theft Auto: Liberty City Stories (2005)"],
-                "traits": ["Obsessed with Youth", "Cunning", "Ruthless Businessman"],
+                "traits": ["Obsessed with Youth", "Cunning", "Ruthless Businessman", "Eccentric", "Manipulator", "Vulture Capitalist"],
                 "description": "A wealthy and eccentric real estate mogul obsessed with eternal youth and power. He employs both Toni Cipriani (in *LCS*) and Claude (*GTA III*) to manipulate the city's market and eliminate rivals.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Miguel",
                 "role": "Colombian Cartel Leader",
                 "appeared_in": ["Grand Theft Auto III (2001)"],
-                "traits": ["Vulnerable", "Betrayed"],
+                "traits": ["Vulnerable", "Betrayed", "Cocky", "Partner (to Catalina)"],
                 "description": "A leader of the Colombian Cartel and Catalina's business partner (and temporary lover) in *GTA III*. He is ultimately captured and tortured by Asuka Kasen before being killed by Catalina.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Ray Machowski",
                 "role": "Corrupt Police Detective / FIB Informant",
                 "appeared_in": ["Grand Theft Auto III (2001)"],
-                "traits": ["Paranoid", "Corrupt", "Connected"],
+                "traits": ["Paranoid", "Corrupt", "Connected", "Untrustworthy", "Self-Preserving"],
                 "description": "A highly corrupt police detective working as an informant for the FIB. He gives Claude missions involving high-level corruption and political assassination before fleeing to Miami (Vice City) to escape the authorities.",
-                "image": "",
+                "image": ""
             },
             // GTA: Vice City Key Characters
             {
                 "name": "Sonny Forelli",
                 "role": "Don of the Forelli Crime Family / Main Antagonist",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)"],
-                "traits": ["Greedy", "Controlling", "Arrogant"],
+                "traits": ["Greedy", "Controlling", "Arrogant", "Vindictive", "Old-School Mob Boss"],
                 "description": "Tommy Vercetti's former boss who sets him up to take the fall for a drug deal, only to come to Vice City years later to take Tommy's new empire. He is the final antagonist, killed by Tommy.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Ken Rosenberg",
                 "role": "Cocaine-Addled Lawyer",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)", "Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Neurotic", "Anxious", "Cowardly", "Loyal (to Tommy)"],
+                "traits": ["Neurotic", "Anxious", "Cowardly", "Loyal (to Tommy)", "Overly Dramatic", "Drug-Addicted"],
                 "description": "Tommy Vercetti's eccentric and drug-addled lawyer who helps him establish his empire in Vice City. He later flees to San Andreas in 1992 and works with Carl Johnson and the mob families.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Lance Vance",
                 "role": "Drug Dealer / Partner / Betrayer",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)", "Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Flashy", "Insecure", "Impulsive", "Treacherous"],
+                "traits": ["Flashy", "Insecure", "Impulsive", "Treacherous", "Attention-Seeking", "Reckless"],
                 "description": "Victor Vance's opportunistic brother (*VCS*), and Tommy Vercetti's close ally (*VC*). Feeling disrespected and under-appreciated by Tommy, he ultimately betrays him, leading to his death in the final mission.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Ricardo Diaz",
                 "role": "Violent Vice City Drug Lord",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)"],
-                "traits": ["Violent", "Short-tempered", "Paranoid"],
+                "traits": ["Violent", "Short-tempered", "Paranoid", "Ruthless", "Hot-headed"],
                 "description": "The powerful but volatile drug kingpin of Vice City. He is revealed to have orchestrated the ambush that cost Tommy his money, leading to Tommy and Lance killing him and taking over his mansion and operations.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Avery Carrington",
                 "role": "Real Estate Tycoon / Mentor",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)"],
-                "traits": ["Ruthless Businessman", "Mentor", "Smooth-talker"],
+                "traits": ["Ruthless Businessman", "Mentor", "Smooth-talker", "Manipulative", "Cutthroat"],
                 "description": "A powerful and ruthless property mogul in Vice City who serves as an early mentor to Tommy, teaching him how to manipulate the real estate market to make a fortune. He is later assassinated in *LCS* (1998) on Donald Love's orders."
             },
             {
                 "name": "Mercedes Cortez",
                 "role": "Daughter of Colonel Cortez / Love Interest",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)"],
-                "traits": ["Flirtatious", "Troubled", "Loyal (to her father)"],
+                "traits": ["Flirtatious", "Troubled", "Loyal (to her father)", "Hedonistic", "Seeking Freedom"],
                 "description": "Daughter of Colonel Juan Garcia Cortez and a temporary love interest for Tommy. She struggles with her father's impending departure and her own hedonistic lifestyle.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Kent Paul",
                 "role": "Music Producer / Media Contact",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)", "Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Connected", "Drug-addled", "Insecure"],
+                "traits": ["Connected", "Drug-addled", "Insecure", "Loud", "Flamboyant", "Hapless"],
                 "description": "A nervous but well-connected British music manager who provides Tommy with information and contacts. He later appears in *San Andreas* (1992) hiding out near Las Venturas with his friend Maccer."
             },
             {
                 "name": "Steve Scott",
                 "role": "Adult Film Director",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)"],
-                "traits": ["Creative", "Shifty"],
+                "traits": ["Creative", "Shifty", "Opportunistic", "Discreet"],
                 "description": "A director of adult films who Tommy works with to secure the Print Works property, a key element in Vercetti's counterfeiting operations."
             },
             {
                 "name": "Mitch Baker",
                 "role": "Outlaw Biker Gang Leader",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)"],
-                "traits": ["Tough", "Vietnam Veteran", "Drug User"],
+                "traits": ["Tough", "Vietnam Veteran", "Drug User", "Reliable (for a price)"],
                 "description": "Leader of the Vice City Biker gang. Tommy hires him and his gang as security for the Love Fist concert, demonstrating Tommy's expanding control over the city's various factions."
             },
             {
                 "name": "Umberto Robina",
                 "role": "Cuban Gang Leader",
                 "appeared_in": ["Grand Theft Auto: Vice City (2002)", "Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Macho", "Bravado-driven", "Rival to the Haitians"],
+                "traits": ["Macho", "Bravado-driven", "Rival to the Haitians", "Obsessed with Manliness", "Aggressive"],
                 "description": "Leader of the Cuban gang in Little Havana. He is consumed by a violent rivalry with the Haitian gang, using both Vic Vance (*VCS*) and Tommy Vercetti (*VC*) as muscle for his turf wars.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Phil Cassidy",
                 "role": "Arms Dealer / Explosives Expert",
                 "appeared_in": ["Grand Theft Auto III (2001)", "Grand Theft Auto: Vice City (2002)", "Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Gun Enthusiast", "Alcoholic", "Grumpy"],
+                "traits": ["Gun Enthusiast", "Alcoholic", "Grumpy", "Competent", "Suspicious"],
                 "description": "A drunken, one-armed arms dealer and explosives expert who assists both Vic Vance and Tommy Vercetti. He also appears in a small role in *GTA III* where Claude can purchase heavy weaponry from him.",
-                "image": "",
+                "image": ""
             },
             // GTA: San Andreas Key Characters
             {
                 "name": "Sweet (Sean Johnson)",
                 "role": "Grove Street Families Leader / CJ's Brother",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Principled", "Loyal", "Stubborn", "Gang-focused"],
+                "traits": ["Principled", "Loyal", "Stubborn", "Gang-focused", "Traditionalist", "Unwilling to Adapt", "Honorable"],
                 "description": "CJ's older brother and the leader of the Grove Street Families. His staunch loyalty to the 'hood prevents him from adapting to new threats, leading to his eventual imprisonment.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Big Smoke (Melvin Harris)",
                 "role": "Grove Street Families OG / Main Antagonist",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Selfish", "Gluttonous", "Ambitious (criminally)"],
+                "traits": ["Selfish", "Gluttonous", "Ambitious (criminally)", "Traitorous", "Materialistic", "Manipulative"],
                 "description": "A high-ranking OG who betrays the Grove Street Families, secretly collaborating with Officer Tenpenny, the Ballas, and the Cartel to establish a drug empire. He is the game's final boss.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Ryder (Lance Wilson)",
                 "role": "Grove Street OG / Traitor",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Aggressive", "Delusional", "Small-time"],
+                "traits": ["Aggressive", "Delusional", "Small-time", "Insecure", "Petty", "Hypocritical"],
                 "description": "A close friend of CJ and a high-ranking member of Grove Street, known for his obsession with 'respect'. He is Big Smoke's partner in crime and one of the two main traitors to the gang.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Kendl Johnson",
                 "role": "CJ's Sister / Mediator",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Intelligent", "Level-headed", "Supportive"],
+                "traits": ["Intelligent", "Level-headed", "Supportive", "Practical", "Independent", "Strong-Willed"],
                 "description": "The only daughter of the Johnson family and CJ's sister. She is the most rational member of the family and a voice of reason, dating Cesar Vialpando.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Cesar Vialpando",
                 "role": "Varrios Los Aztecas Leader / CJ's Ally",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Loyal", "Honorable", "Car Enthusiast"],
+                "traits": ["Loyal", "Honorable", "Car Enthusiast", "Passionate", "Trustworthy", "Protective"],
                 "description": "Leader of the Varrios Los Aztecas gang and Kendl's boyfriend. He becomes one of CJ's most trusted and loyal allies after revealing the betrayal of Big Smoke and Ryder.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "The Truth",
                 "role": "Eco-Friendly Hippie / Drug Grower",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Paranoid", "Philosophical", "Druggie"],
+                "traits": ["Paranoid", "Philosophical", "Druggie", "Conspiracy Theorist", "Pacifist (Mostly)"],
                 "description": "An eccentric, conspiracy-obsessed hippie who grows high-quality weed and gives CJ missions involving covert operations, often requiring CJ to travel across San Andreas.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Officer Frank Tenpenny",
                 "role": "Corrupt Police Officer / Main Antagonist",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Corrupt", "Manipulative", "Arrogant", "Sadistic"],
+                "traits": ["Corrupt", "Manipulative", "Arrogant", "Sadistic", "Vindictive", "Sociopathic", "Abusive of Power"],
                 "description": "Leader of the LSPD's C.R.A.S.H. unit and the primary antagonist of *San Andreas*. He blackmails CJ into doing his dirty work while secretly profiting from the city's gang wars.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Officer Eddie Pulaski",
                 "role": "Corrupt Police Officer / Tenpenny's Henchman",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Loyal (to Tenpenny)", "Vicious", "Brutish"],
+                "traits": ["Loyal (to Tenpenny)", "Vicious", "Brutish", "Cowardly", "Enforcer"],
                 "description": "Tenpenny's loyal and vicious henchman in the C.R.A.S.H. unit. He is forced to kill his fellow officer Hernandez and later attempts to kill CJ before being killed himself.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Officer Jimmy Hernandez",
                 "role": "Corrupt Police Officer / C.R.A.S.H. Recruit",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Reluctant", "Guilt-ridden"],
+                "traits": ["Reluctant", "Guilt-ridden", "Weak-Willed", "Moral (Ultimately)"],
                 "description": "The new member of the C.R.A.S.H. unit, forced to commit murder early on. He eventually attempts to expose Tenpenny to Internal Affairs, leading to his death.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Woozie (Wu Zi Mu)",
                 "role": "Triad Mountain Cloud Boys Leader",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Blind (but denies it)", "Honorable", "Strategic", "Lucky"],
+                "traits": ["Blind (but denies it)", "Honorable", "Strategic", "Lucky", "Calm", "Trustworthy", "Skilled Racer"],
                 "description": "The blind but highly skilled leader of the Triads' Mountain Cloud Boys in San Fierro. He becomes one of CJ's most reliable and honorable business partners and allies.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Toreno (Mike Toreno)",
                 "role": "Undercover Government Agent",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Mysterious", "Manipulative", "Patriotic (Self-proclaimed)"],
+                "traits": ["Mysterious", "Manipulative", "Patriotic (Self-proclaimed)", "Demanding", "Secretive", "Highly Connected"],
                 "description": "Initially appears to be a drug contact, but is later revealed to be an undercover government agent. He forces CJ to undertake difficult missions in exchange for Sweet's freedom.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Madd Dogg",
                 "role": "G-Funk Rapper / Comedian",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Troubled", "Depressed", "Redeemed"],
+                "traits": ["Troubled", "Depressed", "Redeemed", "Talented", "Vulnerable"],
                 "description": "A famous Los Santos rapper who loses his career and mansion due to his manager being killed and his rhyme book being stolen by OG Loc. CJ later saves him from suicide and helps rebuild his career.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "OG Loc (Jeffrey Cross)",
                 "role": "Wannabe Rapper / Antagonist",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Delusional", "Incompetent", "Annoying"],
+                "traits": ["Delusional", "Incompetent", "Annoying", "Egotistical", "Untalented", "Petty"],
                 "description": "A newly released convict and a terrible rapper. He forces CJ to help him steal Madd Dogg's rhyme book and kill his manager, kickstarting a chain of events that leads to Madd Dogg's breakdown.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Big Bear",
                 "role": "Grove Street Families OG / Drug Addict",
                 "appeared_in": ["Grand Theft Auto: San Andreas (2004)"],
-                "traits": ["Mute", "Drug Addict", "Redeemed"],
+                "traits": ["Mute (Initially)", "Drug Addict", "Redeemed", "Submissive (Initially)", "Strong (Physically)"],
                 "description": "A former influential OG who fell into drug addiction and was reduced to being Big Smoke's mute lackey. He finds redemption late in the story, cleans up, and fights alongside CJ and Sweet.",
-                "image": "",
+                "image": ""
             },
             // GTA: Liberty City Stories Key Characters
             {
                 "name": "Vincenzo Cilli",
                 "role": "Leone Capo / Toni's Rival",
                 "appeared_in": ["Grand Theft Auto: Liberty City Stories (2005)"],
-                "traits": ["Ambitious", "Scheming", "Arrogant"],
+                "traits": ["Ambitious", "Scheming", "Arrogant", "Untrustworthy", "Rivalrous"],
                 "description": "A rising Capo in the Leone family and Toni's immediate superior, who constantly schemes against him to impress Salvatore. He becomes an early victim of Toni's ruthless rise.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Ma Cipriani",
                 "role": "Toni's Mother",
                 "appeared_in": ["Grand Theft Auto: Liberty City Stories (2005)"],
-                "traits": ["Overbearing", "Critical", "Traditional"],
+                "traits": ["Overbearing", "Critical", "Traditional", "Disapproving", "Controlling"],
                 "description": "Toni's mother, who is constantly disappointed in his lack of ambition and compares him unfavorably to his father. Her constant criticism drives Toni's aggressive ambition.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "JD O'Toole",
                 "role": "Sindacco Associate / Strip Club Owner",
                 "appeared_in": ["Grand Theft Auto: Liberty City Stories (2005)"],
-                "traits": ["Effeminate", "Leone-wannabe", "Unlucky"],
+                "traits": ["Effeminate", "Leone-wannabe", "Unlucky", "Gullible", "Low-level Informant"],
                 "description": "An associate of the Sindacco crime family who secretly wants to join the Leones. He provides Toni with useful information but is ultimately deemed a liability and killed by the Leones.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Toshiko Kasen",
                 "role": "Yakuza Boss's Wife",
                 "appeared_in": ["Grand Theft Auto: Liberty City Stories (2005)"],
-                "traits": ["Trapped", "Revengeful", "Suicidal"],
+                "traits": ["Trapped", "Revengeful", "Suicidal", "Manipulative", "Desperate"],
                 "description": "The wife of a Triad boss who feels trapped in a loveless marriage and hires Toni to destroy her husband's business and reputation, ultimately committing suicide after her revenge is complete.",
-                "image": "",
+                "image": ""
             },
             // GTA: Vice City Stories Key Characters
             {
                 "name": "Louise Cassidy-Williams",
                 "role": "Vic's Love Interest / Gang Associate",
                 "appeared_in": ["Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Caring", "Feisty", "Troubled"],
+                "traits": ["Caring", "Feisty", "Troubled", "Loyal (to Vic)", "Victim of Abuse"],
                 "description": "Vic Vance's love interest and an associate of Marty Jay Williams's gang. She struggles with an abusive ex-husband and is eventually killed by the Mendez brothers' forces.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Marty Jay Williams",
                 "role": "Gang Leader / Loan Shark",
                 "appeared_in": ["Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Abusive", "Small-time", "Violent"],
+                "traits": ["Abusive", "Small-time", "Violent", "Insecure", "Petty"],
                 "description": "A loan shark and leader of a small gang who employs Vic Vance early on. He is Louise Cassidy-Williams's abusive ex-husband and is eventually killed by Vic.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Jerry Martinez",
                 "role": "Corrupt U.S. Army Sergeant / Antagonist",
                 "appeared_in": ["Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Corrupt", "Cowardly", "Traitorous"],
+                "traits": ["Corrupt", "Cowardly", "Traitorous", "Manipulative", "Self-Serving"],
                 "description": "Vic's commanding officer who introduces him to the criminal underworld and frames him for drug use, leading to Vic's discharge. He is one of the main antagonists of *VCS*.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Diego & Armando Mendez",
                 "role": "Drug Lords / Main Antagonists",
                 "appeared_in": ["Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Ruthless", "Calculated", "Brothers"],
+                "traits": ["Ruthless", "Calculated", "Brothers", "Vicious", "Powerful", "Narcissistic"],
                 "description": "Brothers who run the powerful Mendez Cartel in Vice City. They are the primary antagonists of *VCS*, responsible for the death of Louise and for the eventual downfall of Vic Vance's operation.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Reni Wassulmaier",
                 "role": "Transgender Film Director",
                 "appeared_in": ["Grand Theft Auto: Vice City Stories (2006)"],
-                "traits": ["Eccentric", "Dramatic", "Connected"],
+                "traits": ["Eccentric", "Dramatic", "Connected", "Flamboyant", "Creative"],
                 "description": "An eccentric European film director whom Vic works for. Reni is one of the few prominent transgender characters in the series.",
-                "image": "",
+                "image": ""
             },
             // GTA IV Key Characters
             {
                 "name": "Roman Bellic",
                 "role": "Niko's Cousin / Taxi Cab Owner",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Optimistic (delusional)", "In debt", "Loyal (to Niko)"],
+                "traits": ["Optimistic (delusional)", "In debt", "Loyal (to Niko)", "Weak-Willed", "Exaggerator", "Cowardly", "Overly Needy"],
                 "description": "Niko's cousin who convinces him to come to Liberty City with false promises of wealth, only to be constantly in trouble with loan sharks. He serves as Niko's closest companion and moral compass.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Little Jacob",
                 "role": "Jamaican Arms Dealer / Ally",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Calm", "Trustworthy", "Rastafarian"],
+                "traits": ["Calm", "Trustworthy", "Rastafarian", "Reliable", "Soft-Spoken", "Druggie"],
                 "description": "A Jamaican arms and drug dealer and Roman's best friend. He is one of Niko's most dependable and loyal allies, providing him with weapons and backup throughout the game.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Brucie Kibbutz",
                 "role": "Steroid-addicted Fitness Enthusiast",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Hyperactive", "Ego-driven", "Steroid User"],
+                "traits": ["Hyperactive", "Ego-driven", "Steroid User", "Delusional", "Insecure (Masked)", "Loud"],
                 "description": "A delusional, self-proclaimed fitness and lifestyle guru obsessed with steroids and his image. He employs Niko for various tasks, primarily involving vehicles and public relations.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Patrick “Packie” McReary",
                 "role": "Irish Mobster / Heist Partner",
                 "appeared_in": ["Grand Theft Auto IV (2008)", "Grand Theft Auto V (2013)"],
-                "traits": ["Loyal", "Skilled Criminal", "Family-focused"],
+                "traits": ["Loyal", "Skilled Criminal", "Family-focused", "Strategic", "Emotional"],
                 "description": "An Irish mobster and the most stable member of the chaotic McReary family. He befriends Niko and works as his heist partner. He reappears in *GTA V* as a potential crew member.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Derrick McReary",
                 "role": "Irish Mobster / Drug Addict",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Unstable", "Drug Addict", "Paranoid"],
+                "traits": ["Unstable", "Drug Addict", "Paranoid", "Guilt-Ridden", "Self-Destructive"],
                 "description": "The eldest and most unstable of the McReary brothers, a paranoid former mobster who is either killed or saved by Niko, depending on the player's choice.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Kate McReary",
                 "role": "Packie's Sister / Love Interest",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Moral", "Principled", "Honest"],
+                "traits": ["Moral", "Principled", "Honest", "Stubborn (Morally)", "Disdainful of Crime"],
                 "description": "The only daughter of the McReary family and a potential love interest for Niko. She despises the criminal life of her brothers and serves as a moral influence on Niko.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Gerry McReary",
                 "role": "Irish Mobster / Strategist",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Manipulative", "Calculated", "Scheming"],
+                "traits": ["Manipulative", "Calculated", "Scheming", "Intelligent", "Controlling"],
                 "description": "One of the McReary brothers who uses Niko to manipulate the rival Irish and Italian mobs. He is incarcerated during the game but continues to give Niko orders by phone.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Michelle / Karen",
                 "role": "Niko's First Girlfriend / Government Agent",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Deceptive", "Secretive"],
+                "traits": ["Deceptive", "Secretive", "Professional", "Undercover"],
                 "description": "Niko's first girlfriend in Liberty City, later revealed to be an agent for a covert government agency, who forces Niko to work for her to help locate a key target.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Vlad Glebov",
                 "role": "Small-Time Russian Mobster",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Arrogant", "Womanizer", "Small-time"],
+                "traits": ["Arrogant", "Womanizer", "Small-time", "Bully", "Petty"],
                 "description": "A low-level Russian mobster and loan shark who is harassing Roman. He is the first person Niko kills for personal revenge, leading Niko to the more powerful Russian syndicate.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Mikhail Faustin",
                 "role": "Russian Mobster / Hot-head",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Volatile", "Irrational", "Drug-addled"],
+                "traits": ["Volatile", "Irrational", "Drug-addled", "Reckless", "Egomanical"],
                 "description": "A high-ranking Russian mobster who is highly volatile and erratic. He forces Niko to commit several murders, eventually causing too much trouble for his own boss, Dimitri Rascalov.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Dimitri Rascalov",
                 "role": "Russian Mob Boss / Main Antagonist",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Treacherous", "Calculated", "Manipulative"],
+                "traits": ["Treacherous", "Calculated", "Manipulative", "Sociopathic", "Vindictive", "Calm (under pressure)"],
                 "description": "Faustin's business partner and the primary antagonist of *GTA IV*. He constantly betrays Niko, first by setting him up, and later by repeatedly working with Niko's enemies.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Ray Boccino",
                 "role": "Italian Mobster (Ancelotti Family)",
                 "appeared_in": ["Grand Theft Auto IV (2008)", "Grand Theft Auto IV: The Lost and Damned (2009)"],
-                "traits": ["Scheming", "Arrogant", "Cowardly"],
+                "traits": ["Scheming", "Arrogant", "Cowardly", "Gossipy", "Untrustworthy"],
                 "description": "A high-ranking Capo in the Ancelotti crime family who uses Niko (and Johnny Klebitz in *TLAD*) for various schemes before being killed as part of a high-level mob purge.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Phil Bell",
                 "role": "Irish-American Mobster / Heist Partner",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Trustworthy", "Professional", "Loyal (to Pegorino)"],
+                "traits": ["Trustworthy", "Professional", "Loyal (to Pegorino)", "Calm", "Experienced"],
                 "description": "A professional mobster and close associate of Jimmy Pegorino. He serves as Niko's final contact for large-scale operations and a valuable heist partner.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Jimmy Pegorino",
                 "role": "Mob Boss / Final Antagonist (Choice)",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Insecure", "Ambitious (desperate)"],
+                "traits": ["Insecure", "Ambitious (desperate)", "Paranoid", "Vindictive", "Needy"],
                 "description": "Leader of the small, unrecognised Pegorino Crime Family. His desperate ambition to be accepted by the larger mob families drives him to make poor choices, leading to his conflict with Niko.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Elizabeta Torres",
                 "role": "Dominican Drug Queenpin",
                 "appeared_in": ["Grand Theft Auto IV (2008)", "Grand Theft Auto IV: The Lost and Damned (2009)"],
-                "traits": ["Unstable", "Drug-addled", "Connected"],
+                "traits": ["Unstable", "Drug-addled", "Connected", "Paranoid", "Hot-Tempered"],
                 "description": "A highly unstable drug dealer in Bohan who provides missions to Niko (and Johnny Klebitz) until her paranoia and drug use cause her to be arrested by the FIB.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Playboy X",
                 "role": "Uptown Gang Leader / Wealthy Criminal",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Arrogant", "Paranoid", "Ambitious"],
+                "traits": ["Arrogant", "Paranoid", "Ambitious", "Egotistical", "Insecure (about his roots)"],
                 "description": "A powerful criminal in Algonquin who mentors Niko before becoming paranoid and manipulative. Niko must eventually choose between killing him or his old friend, Dwayne Forge.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Dwayne Forge",
                 "role": "Playboy X's Ex-Mentor / Ex-Convict",
                 "appeared_in": ["Grand Theft Auto IV (2008)"],
-                "traits": ["Depressed", "Loyal", "Old-school"],
+                "traits": ["Depressed", "Loyal", "Old-school", "Jaded", "Vulnerable"],
                 "description": "Playboy X's former mentor, released from prison after a long sentence. Niko must eventually choose between killing him or his former protégé, Playboy X.",
-                "image": "",
+                "image": ""
             },
             // GTA IV: The Lost and Damned Key Characters
             {
                 "name": "Billy Grey",
                 "role": "President of The Lost MC / Main Antagonist",
                 "appeared_in": ["Grand Theft Auto IV: The Lost and Damned (2009)"],
-                "traits": ["Reckless", "Violent", "Drug-addled"],
+                "traits": ["Reckless", "Violent", "Drug-addled", "Destructive", "Charismatic", "Irresponsible"],
                 "description": "The unstable, charismatic President of The Lost MC. His reckless decision-making and desire for extreme violence constantly undermine Johnny Klebitz's efforts to keep the club functioning.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Jim Fitzgerald",
                 "role": "Lost MC Treasurer / Johnny's Best Friend",
                 "appeared_in": ["Grand Theft Auto IV: The Lost and Damned (2009)"],
-                "traits": ["Trustworthy", "Loyal", "Family-focused"],
+                "traits": ["Trustworthy", "Loyal", "Family-focused", "Voice of Reason", "Reliable"],
                 "description": "The club's treasurer and Johnny's most trusted friend. He is always the voice of reason against Billy's recklessness and is killed by Niko Bellic as part of a mission for Ray Boccino.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Brian Jeremy",
                 "role": "Lost MC Secretary / Betrayer",
                 "appeared_in": ["Grand Theft Auto IV: The Lost and Damned (2009)"],
-                "traits": ["Self-serving", "Scheming", "Cowardly"],
+                "traits": ["Self-serving", "Scheming", "Cowardly", "Treacherous", "Insecure"],
                 "description": "The self-serving secretary of The Lost MC. He aligns himself with Billy Grey and is instrumental in plotting the downfall of Johnny Klebitz, leading a splinter group of the club.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Angus Martin",
                 "role": "Lost MC Member / Informant",
                 "appeared_in": ["Grand Theft Auto IV: The Lost and Damned (2009)"],
-                "traits": ["Disabled", "Informant", "Vengeful"],
+                "traits": ["Disabled", "Informant", "Vengeful", "Cynical", "Strategic"],
                 "description": "A disabled Lost MC member who holds a personal grudge against Billy Grey. He provides Johnny with information and helps him fight against Billy's forces.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Malc",
                 "role": "Uptown Riders Gang Member / Ally",
                 "appeared_in": ["Grand Theft Auto IV: The Lost and Damned (2009)"],
-                "traits": ["Biker", "Ally to The Lost"],
+                "traits": ["Biker", "Ally to The Lost", "Respectful", "Dependable"],
                 "description": "A member of the Uptown Riders gang who provides backup and assistance to Johnny and The Lost during their turf wars, particularly against the Angels of Death.",
-                "image": "",
+                "image": ""
             },
             // GTA IV: The Ballad of Gay Tony Key Characters
             {
                 "name": "Tony Prince (Gay Tony)",
                 "role": "Nightclub Impresario / Luis's Boss",
                 "appeared_in": ["Grand Theft Auto IV: The Ballad of Gay Tony (2009)"],
-                "traits": ["Flamboyant", "In Debt", "Unstable"],
+                "traits": ["Flamboyant", "In Debt", "Unstable", "Extravagant", "Dramatic", "Vulnerable"],
                 "description": "The charismatic but severely in-debt owner of Liberty City's most exclusive nightclubs. He relies entirely on his bodyguard, Luis Lopez, to save him from financial ruin and angry loan sharks.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Yusuf Amir",
                 "role": "Insane Middle Eastern Billionaire",
                 "appeared_in": ["Grand Theft Auto IV: The Ballad of Gay Tony (2009)"],
-                "traits": ["Eccentric", "Insane", "Wealthy"],
+                "traits": ["Eccentric", "Insane", "Wealthy", "Impulsive", "Ostentatious", "Destructive"],
                 "description": "A ridiculously rich, eccentric Middle Eastern billionaire who employs Luis to acquire increasingly ridiculous and destructive weapons, all in pursuit of building the 'ultimate Liberty City'.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Mori Kibbutz",
                 "role": "Brucie Kibbutz's Brother",
                 "appeared_in": ["Grand Theft Auto IV: The Ballad of Gay Tony (2009)"],
-                "traits": ["Hyper-competitive", "Intense", "Dominating"],
+                "traits": ["Hyper-competitive", "Intense", "Dominating", "Narcissistic", "Overbearing"],
                 "description": "Brucie Kibbutz's highly competitive and intense older brother. He forces Luis to engage in dangerous and demanding challenges to prove his worth.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Rocco Pelosi",
                 "role": "Italian Mobster (Ancelotti Family)",
                 "appeared_in": ["Grand Theft Auto IV: The Ballad of Gay Tony (2009)"],
-                "traits": ["Vicious", "Extortionist"],
+                "traits": ["Vicious", "Extortionist", "Petty", "Aggressive", "Entitled"],
                 "description": "An Ancelotti mobster who attempts to extort money from Tony Prince, leading to a direct conflict with Luis. He is one of the final victims of the criminal turmoil in Liberty City.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Ray Bulgarin",
                 "role": "Russian Mob Boss / Antagonist",
                 "appeared_in": ["Grand Theft Auto IV: The Ballad of Gay Tony (2009)"],
-                "traits": ["Sadistic", "Vengeful"],
+                "traits": ["Sadistic", "Vengeful", "Calculated", "Ruthless", "International Criminal"],
                 "description": "A sadistic Russian mob boss and an enemy of Niko Bellic. He attempts to take over Tony Prince's businesses and is the final antagonist of *The Ballad of Gay Tony*.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Henrique Bardas",
                 "role": "Luis's Childhood Friend / Street Gang Member",
                 "appeared_in": ["Grand Theft Auto IV: The Ballad of Gay Tony (2009)"],
-                "traits": ["Loyal", "Reliable", "Muscle"],
+                "traits": ["Loyal", "Reliable", "Muscle", "Practical"],
                 "description": "One of Luis's two childhood friends and a loyal member of Luis's street crew. He provides backup and assistance when Luis needs help with street-level operations.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Armando Torres",
                 "role": "Luis's Childhood Friend / Drug Dealer",
                 "appeared_in": ["Grand Theft Auto IV: The Ballad of Gay Tony (2009)"],
-                "traits": ["Loyal", "Drug Dealer", "Planner"],
+                "traits": ["Loyal", "Drug Dealer", "Planner", "Entrepreneurial (Small-Time)"],
                 "description": "Luis's other childhood friend, who often helps plan and execute missions. He also runs a successful street drug dealing operation.",
-                "image": "",
+                "image": ""
             },
             // GTA V Key Characters
             {
                 "name": "Amanda De Santa",
                 "role": "Michael's Estranged Wife",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Materialistic", "Dysfunctional", "Wife of a Criminal"],
+                "traits": ["Materialistic", "Dysfunctional", "Wife of a Criminal", "Nosey", "Unhappy", "Rebellious"],
                 "description": "Michael's wife who is unhappy, spends all of Michael's money, and is largely responsible for the dysfunctional state of the De Santa family at the start of the game.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Jimmy De Santa",
                 "role": "Michael's Slacker Son",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Slacker", "Entitled", "Social Media Obsessed"],
+                "traits": ["Slacker", "Entitled", "Social Media Obsessed", "Lazy", "Apathetic", "Socially Awkward"],
                 "description": "Michael's lazy, entitled, and socially awkward son who is addicted to video games and social media. His relationship with Michael is strained and often hostile.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Tracey De Santa",
                 "role": "Michael's Aspiring Daughter",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Vain", "Ambitious (Naively)", "Rebellious"],
+                "traits": ["Vain", "Ambitious (Naively)", "Rebellious", "Attention-Seeking", "Troublesome"],
                 "description": "Michael's daughter who dreams of being a reality TV star and is constantly making bad decisions, straining her relationship with Michael.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Lamar Davis",
                 "role": "Franklin's Best Friend / Street Gangster",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Unstable", "Comic Relief", "Loyal (to Franklin)"],
+                "traits": ["Unstable", "Comic Relief", "Loyal (to Franklin)", "Impulsive", "Loud", "Petty Criminal"],
                 "description": "Franklin's best friend and a fellow member of the Families gang. He is loud, impulsive, and constantly involves Franklin in petty, often disastrous, criminal schemes.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Lester Crest",
                 "role": "Heist Planner / Mastermind",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Intellectual", "Mastermind", "Crippled", "Nervous"],
+                "traits": ["Intellectual", "Mastermind", "Crippled", "Nervous", "Cunning", "Hacker", "Manipulative"],
                 "description": "The mastermind and logistics expert for Michael, Franklin, and Trevor's heist crew. He handles all the planning, hacking, and market manipulation from his home.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Ron Jakowski",
                 "role": "Trevor's Paranoid Neighbor / Friend",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Paranoid", "Conspiracy Theorist", "Nervous"],
+                "traits": ["Paranoid", "Conspiracy Theorist", "Nervous", "Submissive (to Trevor)", "Easily Frightened"],
                 "description": "Trevor's paranoid, conspiracy-obsessed neighbor and a radio personality in Blaine County. He serves as Trevor's primary assistant and informant.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Wade Hebert",
                 "role": "Trevor's Lackey / Informant",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Dim-witted", "Submissive", "Lackey"],
+                "traits": ["Dim-witted", "Submissive", "Lackey", "Gullible", "Childish"],
                 "description": "A dim-witted but loyal member of Trevor's Blaine County crew, often tasked with gathering information and acting as a lookout. He is easily manipulated by Trevor.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Dave Norton",
                 "role": "Corrupt FIB Agent / Michael's Handler",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Corrupt", "Self-serving", "Manipulative"],
+                "traits": ["Corrupt", "Self-serving", "Manipulative", "Professional (as an agent)", "Cynical"],
                 "description": "The FIB agent who made the deal with Michael to fake his death. He uses Michael to perform various tasks to cover up his own corruption and to advance his career.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Steve Haines",
                 "role": "Corrupt FIB Agent / Co-Antagonist",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Ego-driven", "Corrupt", "Media Personality"],
+                "traits": ["Ego-driven", "Corrupt", "Media Personality", "Grandstanding", "Narcissistic", "Demanding"],
                 "description": "An over-the-top, highly corrupt FIB agent and a television personality. He leads the illegal operations that Michael, Franklin, and Trevor are forced to carry out.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Devin Weston",
                 "role": "Billionaire Corrupt Businessman / Antagonist",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Wealthy", "Sociopathic", "Vain"],
+                "traits": ["Wealthy", "Sociopathic", "Vain", "Manipulative", "Entitled", "Corporate Villain"],
                 "description": "A manipulative, narcissistic billionaire and corporate lawyer who initially employs the trio for various tasks before becoming a key antagonist, demanding they kill a former partner.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Martin Madrazo",
                 "role": "Mexican Drug Lord",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Vicious", "Controlling", "Powerful"],
+                "traits": ["Vicious", "Controlling", "Powerful", "Demanding", "Macho", "Wealthy"],
                 "description": "A wealthy and powerful Mexican drug lord who Michael is forced to work for after damaging Madrazo's house and stealing his wife's necklace.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Patricia Madrazo",
                 "role": "Martin's Wife / Trevor's Companion",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Caring", "Submissive", "Motherly"],
+                "traits": ["Caring", "Submissive (to Martin)", "Motherly", "Quiet", "Domestic"],
                 "description": "Martin Madrazo's kind-hearted, motherly wife who is kidnapped by Trevor. Surprisingly, she and Trevor develop a close, non-sexual bond before being returned to Martin.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Simeon Yetarian",
                 "role": "Shady Armenian Car Dealer",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Shady", "Exploitative", "Money-hungry"],
+                "traits": ["Shady", "Exploitative", "Money-hungry", "Greedy", "Manipulative", "Entitled"],
                 "description": "Franklin and Lamar's initial boss who runs a shady car dealership and loan scheme. His repossession business is where Franklin and Michael first meet and accidentally cause trouble.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Tanisha Jackson",
                 "role": "Franklin's Ex-Girlfriend",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Moral", "Practical", "Independent"],
+                "traits": ["Moral", "Practical", "Independent", "Realistic", "Disdainful of Gang Life"],
                 "description": "Franklin's ex-girlfriend who refuses to be part of his criminal life. Her desire for Franklin to go straight serves as a major motivation for his decisions later in the game.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Stretch",
                 "role": "Gang Member / Franklin's Antagonist",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Traitorous", "Manipulative", "Vicious"],
+                "traits": ["Traitorous", "Manipulative", "Vicious", "Old-School (gangster)", "Short-Sighted"],
                 "description": "A high-ranking Families gang member released from prison who immediately attempts to sell out the Families to the Ballas and ruin Franklin's life. He is a secondary antagonist.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Brad Snider",
                 "role": "Michael and Trevor's Former Crew Member",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Impulsive", "Incompetent"],
+                "traits": ["Impulsive", "Incompetent", "Deadpan", "Unlucky"],
                 "description": "The third member of Michael and Trevor's original heist crew who was killed and buried in Michael's grave during the North Yankton heist. Trevor believes he is still alive in prison.",
-                "image": "",
+                "image": ""
             },
             {
                 "name": "Chef",
                 "role": "Trevor's Cook / Methamphetamine Manufacturer",
                 "appeared_in": ["Grand Theft Auto V (2013)"],
-                "traits": ["Aggressive", "Skilled Cook", "Loyal (to Trevor)"],
+                "traits": ["Aggressive", "Skilled Cook", "Loyal (to Trevor)", "Drug-Addled", "Hot-Tempered"],
                 "description": "Trevor's extremely aggressive and highly skilled cook who runs Trevor Philips Industries' main methamphetamine laboratory.",
-                "image": "",
+                "image": ""
             }
         ],
         weapons: [
